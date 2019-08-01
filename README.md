@@ -2,8 +2,6 @@
 
 > A Vue.js project
 
-check the link here: https://forum-vue.netlify.com/
-
 ## Build Setup
 
 ``` bash
